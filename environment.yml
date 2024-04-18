@@ -1,0 +1,10 @@
+name: dqn_lunar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - gym-box2d=0.21.0
+  - matplotlib=3.8.4
+  - numpy=1.26.4
+  - pygame=2.5.2
+  - pytorch=2.0.0
